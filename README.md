@@ -60,7 +60,7 @@
 - Percentage of Sales by Pizza Category – Shows the proportion of total sales for various types of pizza: Classic, Supreme, Chicken, and Veggie.  
 - Percentage of Sales by Pizza Size – Illustrates the share of sales for different pizza sizes: Small, Medium, Large, XL and XXL.
 
-## Key Insights:
+## KEY INSIGHTS:
 ## Top 5 and bottom 5 Pizza Revenue:-
 - Top 5 Pizza Revenue Insights:
    1. Chicken-based pizzas are the highest earners.
