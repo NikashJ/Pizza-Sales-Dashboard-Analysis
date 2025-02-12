@@ -22,10 +22,10 @@
 ## Why Slicer ?
 - A slicer makes it super easy for you to filter data in a report by different categories. It provides a clean and friendly interface that allows you to apply filters effortlessly. Plus, you can quickly select or deselect data points, giving you a more interactive experience as you explore your data.
 - The Pizza Sales Dashboard features a slicer in the "Pizza Category" section, allowing users to filter data by, 
-  1) Classic
-  2) Supreme
-  3) Chicken
-  4) Veggie
+ 1) Classic
+ 2) Supreme
+ 3) Chicken
+ 4) Veggie
 - Selecting a category updates all charts and metrics in real-time, enhancing interactivity and analysis.
 
 ## Why Funnel ?
@@ -61,12 +61,32 @@
 - Percentage of Sales by Pizza Size – Illustrates the share of sales for different pizza sizes: Small, Medium, Large, XL and XXL.
 
 ## Key Insights:
-  Top 5 and bottom 5 Pizza Revenue.
-Top 5 Pizza Revenue Insights:
+## Top 5 and bottom 5 Pizza Revenue:-
+- Top 5 Pizza Revenue Insights:
    1. Chicken-based pizzas are the highest earners.
    2. The Classic Deluxe and Spicy Italian pizzas also perform well, suggesting that there is a strong preference for rich flavors.
-Bottom 5 Pizza Revenue Insights:
+- Bottom 5 Pizza Revenue Insights:
    1. Vegetarian and specialty pizzas have the lowest revenue.
    2. The Brie Carre Pizza ranks as the lowest performer, likely due to its niche audience or lack of popularity.
-Key Takeaways:
+- Key Takeaways:
    Chicken and classic pizzas generate the most revenue. Healthier vegetarian options tend to struggle with sales. Businesses may benefit from promoting lower-selling pizzas or adjusting their menu based on customer demand menu based on customer demand.
+
+## Top 5 and bottom 5 Pizza Quantity Sold:-
+- Top 5 Pizza Quantity Sold:
+   1. Classic flavors such as Chicken, Hawaiian, and Pepperoni dominate sales volume.
+   2. The Classic Deluxe Pizza is the most popular, indicating that customers prefer well-balanced flavors.
+- Bottom 5 Pizza Quantity Sold:
+   1. Specialty and gourmet pizzas, like Soppressata, Spinach Supreme, and Brie Carre, are less popular.
+   2. The Brie Carre Pizza has the lowest sales, possibly due to its limited demand.
+- Key Takeaways:
+   Classic and well-known flavors sell the most. Specialty pizzas struggle with sales, suggesting they may need improved marketing or adjustments. Businesses can introduce deals, promotions, or new variations to boost sales of low-performing pizzas.
+
+## Top 5 and bottom 5 Pizza by Total Orders Insights:-
+- Top 5 Pizzas by Total Orders Insights:
+   1. Classic and familiar flavors are the most popular.
+   2.  The Classic Deluxe, Hawaiian, and Pepperoni Pizzas rank among the top choices, indicating a strong customer preference for traditional and sweet-savory flavors.
+- Bottom 5 Pizzas by Total Orders Insights:
+   1. Specialty and gourmet pizzas receive fewer orders compared to classic options.
+   2. The Brie Carre Pizza is the least ordered, suggesting it may not appeal to a broad audience.
+- Key Takeaways:
+   Well-known flavors dominate total orders. Less popular pizzas might require better marketing, promotions, or adjustments to the menu. Offering combo deals, discounts, or ingredient modifications could help increase orders for underperforming pizzas.
