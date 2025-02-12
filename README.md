@@ -1,6 +1,6 @@
 # Pizza-Sales-Dashboard-Analysis
-##Pizza sales analysis using Power Bi
-OVERVIEW
+## Pizza sales analysis using Power Bi
+# OVERVIEW
 - The Pizza Sales Dashboard gives a clear and detailed overview of  pizza sales performance, helping us understand customer preferences and how sales are trending.
 - It provides important information, like total revenue, the number of orders, the pizzas sold, and average order values. 
 - Dashboard also examine sales by different pizza categories and sizes and track trends over time, both daily and monthly. 
